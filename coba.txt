@@ -1,5 +1,3 @@
-test irfan text irfanplazuardi
-coba text 2
-test line 3
-test irfan text 
-coba text 2 sdfdsfa
+test nama saya irfan
+test nama saya budi
+
